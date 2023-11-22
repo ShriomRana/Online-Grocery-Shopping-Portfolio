@@ -1,0 +1,556 @@
+*{
+        padding: 0;
+        margin: 0;
+    }
+    
+    #s1{
+        position: fixed;
+        
+        top:0px;
+        height: 60px;
+        width: 1350px;
+        text-align: center;
+       
+        z-index: 1;
+        
+    }
+        
+    a{
+        margin-right:40px;
+        margin-bottom: 50px;
+        font-size:25px;
+        text-align: left;
+        margin-top: 30px;
+        text-decoration: none;
+        color:rgb(202, 118, 118);
+        position: relative;
+       
+    }
+    #im{
+        position: relative;
+        top: 50px;
+        left: 40px;
+        border: 2px;
+        border-color:white;
+        border-style: solid;
+        border-radius: 10px; 
+        
+    }
+    #b1{
+       position: relative;
+       font-size:50px ;
+       top:10px ;
+       
+    }
+    input{
+        height: 30px;
+        width: 500px;
+        border: 2px;
+        border-color: white;
+        border-style: solid;
+        border-radius:5px;
+        position: relative;
+        top: 180px;
+    }
+    
+    #s2{
+        height: 600px;
+        width: 1300px;
+        text-align: center;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        color: rgb(94, 38, 38);
+        position:relative;
+        top: 65px;
+        background-image: url(gro.jpg.jpg);
+        background-size: cover;
+        border-radius: 8px; 
+    }
+    #s3{
+        height: 60px;
+        width: 1300px;
+        text-align: center;
+        border: ;
+        border-color:;
+        border-style: ;
+        color:rgb(44, 43, 43);
+        position:relative;
+        top: 65px;
+        background-image: url();
+        background-size: cover;
+        border-radius: 8px; 
+    }
+    h2{
+        position: relative;
+        top:15px;
+    }
+    #s4{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(R\ \(1\).jfif);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:rgb(65, 30, 30);
+        border-style: solid;
+        z-index: 0;
+    }
+    #s5{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(carrots.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s6{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(istockphoto.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s7{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(Fresh-Tomato-.png);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s8{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(cucumber.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s9{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(ladis.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s10{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(ORGANIC-BIG-BRINJAL-600x600.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s11{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(bit.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s12{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(apple.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s13{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(banana.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s14{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(orange.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s15{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(grapes.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s16{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(pineapple.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s17{
+        width: 400px;
+        height: 300px;
+        display: inline-block;
+        background-image: url(mango.jpg);
+        background-size: cover;
+        border-radius: 10px; 
+        position: relative;
+        top: 65px;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        z-index: 0;
+    }
+    #s18{
+        width: 300px;
+        height: 350px;
+        display: inline-block;
+        border-radius: 10px; 
+        position: relative;
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        background-color: white;
+        transition-property: all;
+        transition-duration: 2s;
+        transform: rotate(360deg);
+        position: relative;
+        top: 70px;
+    }
+    #s18:hover{
+        background-color: rgb(101, 241, 195);
+        transition-duration: 5s;
+        transform: rotate(-360deg); 
+    }
+    #s19{
+        width: 300px;
+        height: 350px;
+        display: inline-block;
+        border-radius: 10px; 
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        background-color: white;
+        transition-property: all;
+        transition-duration: 2s;
+        position: relative;
+        top: 70px;
+    }
+    #s19:hover{
+        background-color: rgb(189, 104, 173);
+        transition-duration: 7s;
+        transform: rotate(360deg); 
+    }
+    #s20{
+        width: 300px;
+        height: 350px;
+        display: inline-block;
+        border-radius: 10px; 
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        background-color: white;
+        transition-property: all;
+        transition-duration: 2s;
+        position: relative;
+        top: 70px;
+    }
+    #s20:hover{
+        background-color: rgb(105, 98, 2);
+        transition-duration: 7s;
+        transform: rotate(360deg); 
+    }
+    #s21{
+        width: 300px;
+        height: 350px;
+        display: inline-block;
+        border-radius: 10px; 
+        border: 1px;
+        border-color:white;
+        border-style: solid;
+        background-color: white;
+        transition-property: all;
+        transition-duration: 2s;
+        position: relative;
+        top: 70px;
+    }
+    #s21:hover{
+        background-color: rgb(243, 103, 9);
+        transition-duration: 7s;
+        transform: rotate(360deg); 
+    }
+    #s22{
+        height: 60px;
+        width: 1300px;
+        position: relative;
+        top: 20px;
+        transition-property: all;
+        transition-duration: 2s;
+    }
+    #s22:hover{
+        background-color: rgb(2, 10, 88);
+        transition-duration: 7s;
+
+    }
+    #s23{
+        height: 600px;
+        width: 1300px;
+        border: 1px;
+        border-style: solid;
+        background-color: white;
+        color: black;
+        text-decoration-color: black;
+        position: relative;
+
+    }
+    #a3
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 100px;
+        font: size 20px;
+    }
+    #a4
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 100px;
+        font: size 20px;
+    }
+    #a5
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 100px;
+        font: size 20px;
+    }
+    #a6
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 100px;
+        font: size 20px;
+    }
+    #a7
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 200px;
+        font: size 20px;
+    }
+    #a8
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 200px;
+        font: size 20px;
+    }
+    #a9
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 200px;
+        font: size 20px;
+    }
+    #a10
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 200px;
+        font: size 20px;
+    }
+    #a11
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 300px;
+        font: size 20px;
+    }
+    #a12
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 300px;
+        font: size 20px;
+    }
+    #a13
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 300px;
+        font: size 20px;
+    }
+    #a14
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 300px;
+        font: size 20px;
+    }
+    #a15
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 400px;
+        font: size 20px;
+    }
+    #a16
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 400px;
+        font: size 20px;
+    }
+    #a17
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 400px;
+        font: size 20px;
+    }
+    #a18
+    {
+        position: relative;
+        color: black;
+        margin: 80px;
+        top: 400px;
+        font: size 20px;
+    }
+   
+    footer{
+        background-image: url(48);
+        background-size: cover;
+        height: 60px;
+        width: 1300px;
+        text-align: center;
+        border: 1px;
+        border-color: white;
+        border-style: solid;
+        margin-bottom: 30px;
+        color: white;
+        border-radius: 8px; 
+        position: relative;
+        top:120px;
+    }
+    #h{
+        color: white; 
+        position: relative;
+        top: 20px;
+    }
+    #a1{
+       position:relative;
+       top: 300px;
+       color:rgb(202, 118, 118);
+    }
+    button{
+        position: relative;
+        top:200px ;
+        margin: 40px;
+        height: 40px;
+        width: 100px;
+        background-color: white;
+        font: size 25px;
+        border-radius: 8px;
+    }
+   
+    body{
+        background-image: url(2792583.jpg);
+        background-size: cover;
+    }
+   
+    
